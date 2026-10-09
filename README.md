@@ -45,8 +45,8 @@ I specialize in turning complex problems into simple, beautiful, and intuitive d
 ---
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sc5ufdj6dkj4h3rjppl7ymgode&cover_image=true&theme=spotify-embed&show_offline=false&background_color=1a1b27&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" alt="spotify-github-profile" width="49%" align="left" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="49%" align="right" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sc5ufdj6dkj4h3rjppl7ymgode&cover_image=true&theme=spotify-embed&show_offline=false&background_color=1a1b27&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" alt="spotify-github-profile" width="47%" align="left" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="47%" align="right" />
 </div>
 
 <br clear="all" />
@@ -59,8 +59,8 @@ I specialize in turning complex problems into simple, beautiful, and intuitive d
 
 <!-- Bagian GitHub Stats & Top Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamaannaafi&show_icons=true&theme=tokyonight&hide_border=true" alt="Tama's GitHub Stats" width="49%" align="left" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaannaafi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tamaannaafi&show_icons=true&theme=tokyonight&hide_border=true" alt="Tama's GitHub Stats" width="47%" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaannaafi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="47%" align="right" />
 </div>
 
 <br clear="all" />
