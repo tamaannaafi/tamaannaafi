@@ -44,24 +44,31 @@ I specialize in turning complex problems into simple, beautiful, and intuitive d
 
 ---
 
-<div align="left" style="width: 50%;">
-  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sc5ufdj6dkj4h3rjppl7ymgode&cover_image=true&theme=spotify-embed&show_offline=false&background_color=1a1b27&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" alt="spotify-github-profile" width="100%" />
-  </a>
-  <p align="right">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="50%" />
-</p>
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sc5ufdj6dkj4h3rjppl7ymgode&cover_image=true&theme=spotify-embed&show_offline=false&background_color=1a1b27&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" alt="spotify-github-profile" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="right" valign="top">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="100%" />
+    </td>
+  </tr>
+</table>
 
 
 ---
 
-<p align="left">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=tamaannaafi&show_icons=true&theme=tokyonight&hide_border=true" alt="Tama's GitHub Stats" width="50%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaannaafi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
-
-</p>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=tamaannaafi&show_icons=true&theme=tokyonight&hide_border=true" alt="Tama's GitHub Stats" width="98%" />
+    </td>
+    <td width="50%" align="right" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaannaafi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="98%" />
+    </td>
+  </tr>
+</table>
 
 ---
