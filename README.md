@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="./atas.gif" alt="Tama's Banner" width="100%" style="border-radius: 10px;/>
-</p>
+</div>
 
 I'm a Software Engineering Student passionate about web development, mobile UI design, and music production.
 
