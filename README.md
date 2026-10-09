@@ -52,11 +52,15 @@ I specialize in turning complex problems into simple, beautiful, and intuitive d
 ---
 
 <p align="left">
+  <img src="https://github-readme-3d-contrib.vercel.app/api?username=tamaannaafi&theme=tokyonight" alt="3D Contrib" height="180" />
+</p>
+
+---
+
+<p align="left">
 
   <img src="https://github-readme-stats.vercel.app/api?username=tamaannaafi&show_icons=true&theme=tokyonight&hide_border=true" alt="Tama's GitHub Stats" width="48%" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaannaafi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="43%" />
 
 </p>
-
----
