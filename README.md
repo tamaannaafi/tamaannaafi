@@ -48,7 +48,7 @@ I specialize in turning complex problems into simple, beautiful, and intuitive d
   <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sc5ufdj6dkj4h3rjppl7ymgode&cover_image=true&theme=spotify-embed&show_offline=false&background_color=1a1b27&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" alt="spotify-github-profile" height="120" />
   </a>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" height="130" />
+  <img src="https://backend-karma.vercel.app/api/meme" alt="Dev Meme" height="120" />
 </p>
 
 ---
