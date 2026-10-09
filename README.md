@@ -58,7 +58,7 @@ I specialize in turning complex problems into simple, beautiful, and intuitive d
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamaannaafi&show_icons=true&theme=tokyonight&hide_border=true" alt="Tama's GitHub Stats" width="48%" height="140" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tamaannaafi&show_icons=true&theme=tokyonight&hide_border=true" alt="Tama's GitHub Stats" width="48%" height="160" align="left" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaannaafi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" height="140 align="right" />
 </div>
 
