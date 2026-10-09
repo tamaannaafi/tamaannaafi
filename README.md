@@ -4,7 +4,7 @@
 
 <br />
 
-<p align="center">
+<p align="left">
 I'm a <b>Software Engineering Student</b> passionate about web development, mobile UI design, and music production.
 <br /><br />
 I specialize in turning complex problems into simple, beautiful, and intuitive designs. With a strong foundation in modern web technologies and development tools, I constantly strive to learn new frameworks and stay updated with the latest industry trends.
@@ -12,7 +12,7 @@ I specialize in turning complex problems into simple, beautiful, and intuitive d
 
 <br />
 
-<p align="center">
+<p align="left">
   <a href="https://instagram.com/tamxzy_" target="_blank">
     <img src="https://img.shields.io/badge/@tamxzy-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" height="28" />
   </a>
@@ -22,24 +22,21 @@ I specialize in turning complex problems into simple, beautiful, and intuitive d
   <a href="https://discord.com/users/txmyz" target="_blank">
     <img src="https://img.shields.io/badge/txmyz-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="28" />
   </a>
-  <a href="https://github.com/tamaannaafi">
-    <img src="https://komarev.com/ghpvc/?username=tamaannaafi&label=Stalker&color=0e75ba&style=flat" alt="Profile Views" height="28" />
-  </a>
 </p>
 
 ---
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="left">Tech Stack</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,php,bootstrap,tailwind" />
   </a>
 </p>
 
-<h3 align="center">Tools</h3>
+<h3 align="left">Tools</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma" />
   </a>
@@ -47,7 +44,7 @@ I specialize in turning complex problems into simple, beautiful, and intuitive d
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tamaannaafi&show_icons=true&theme=tokyonight&hide_border=true" alt="Tama's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaannaafi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="43%" />
 </p>
