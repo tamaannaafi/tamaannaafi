@@ -52,7 +52,7 @@ I specialize in turning complex problems into simple, beautiful, and intuitive d
 ---
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamaannaafi&theme=tokyo-night&hide_border=true" alt="Activity Graph" height="180" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=tamaannaafi&theme=tokyo-night&hide_border=true" alt="Activity Graph" height="170" />
 </p>
 
 ---
