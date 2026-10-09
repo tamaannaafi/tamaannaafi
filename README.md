@@ -4,9 +4,11 @@
 
 <br />
 
+<p>
 I'm a Software Engineering Student passionate about web development, mobile UI design, and music production.
 
 I specialize in turning complex problems into simple, beautiful, and intuitive designs. With a strong foundation in modern web technologies and development tools, I constantly strive to learn new frameworks and stay updated with the latest industry trends.
+</p>
 
 <p align="left">
   <a href="https://instagram.com/tamxzy_" target="_blank">
