@@ -49,6 +49,10 @@ I specialize in turning complex problems into simple, beautiful, and intuitive d
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamaannaafi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="145" />
 </p>
 
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=tamaannaafi&theme=tokyonight&no-frame=true&no-bg=true" alt="Tama's GitHub Trophies" height="130" />
+</p>
+
 ---
 
 <p align="left">
