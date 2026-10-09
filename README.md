@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="./atas.gif" alt="Tama's Banner" width="100%" />
+  <img src="./atas.gif" alt="Tama's Banner" width="100%" style="border-radius: 10px;/>
 </p>
-I'm a **Software Engineering Student** passionate about web development, mobile UI design, and music production.
+
+I'm a Software Engineering Student passionate about web development, mobile UI design, and music production.
 
 I specialize in turning complex problems into simple, beautiful, and intuitive designs. With a strong foundation in modern web technologies and development tools, I constantly strive to learn new frameworks and stay updated with the latest industry trends.
 
