@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./atas.gif" alt="Tama's Banner" width="100%" style="border-radius: 10px;" />
+  <img src="./atas.gif" alt="Tama's Banner" width="100%" border-radius="10px;" />
 </div>
 
 <br />
