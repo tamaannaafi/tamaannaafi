@@ -48,7 +48,7 @@ I specialize in turning complex problems into simple, beautiful, and intuitive d
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sc5ufdj6dkj4h3rjppl7ymgode&cover_image=true&theme=spotify-embed&show_offline=false&background_color=1a1b27&interchange=false&profanity=false&hide_remaster=false&bar_color=1a1b27&bar_color_cover=false&mode=dark" alt="spotify-github-profile" width="48%" height="130"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamaannaafi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" height="130"/>
 </p>
-
+ 
 ---
 
 <p align="left">
