@@ -50,7 +50,7 @@ I specialize in turning complex problems into simple, beautiful, and intuitive d
 </p>
  
 ---
-
+ 
 <p align="left">
 
   <img src="https://github-readme-stats.vercel.app/api?username=tamaannaafi&show_icons=true&theme=tokyonight&hide_border=true" alt="Tama's GitHub Stats" width="48%" />
