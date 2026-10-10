@@ -9,7 +9,7 @@ I'm a <b>Software Engineering Student</b> passionate about web development, mobi
 <br /><br />
 I specialize in turning complex problems into simple, beautiful, and intuitive designs. With a strong foundation in modern web technologies and development tools, I constantly strive to learn new frameworks and stay updated with the latest industry trends.
 </p>
-
+ 
 <br />
 
 <p align="left">
@@ -59,3 +59,4 @@ I specialize in turning complex problems into simple, beautiful, and intuitive d
 
 </p>
    
+ 
