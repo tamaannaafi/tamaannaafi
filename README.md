@@ -46,14 +46,14 @@ I specialize in turning complex problems into simple, beautiful, and intuitive d
 
 <p align="left" >
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sc5ufdj6dkj4h3rjppl7ymgode&cover_image=true&theme=spotify-embed&show_offline=false&background_color=1a1b27&interchange=false&profanity=false&hide_remaster=false&bar_color=1a1b27&bar_color_cover=false&mode=dark" alt="spotify-github-profile" width="48%" height="130"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamaannaafi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" height="130"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamaannaafi&theme=tokyonight&hide_border=" width="48%" height="130"/>
 </p>
- 
+ v
 ---
  
 <p align="left">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=tamaannaafi&show_icons=true&theme=tokyonight&hide_border=true" alt="Tama's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tamaannaafi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaannaafi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="43%" />
 
