@@ -46,5 +46,5 @@ I specialize in turning complex problems into simple, beautiful, and intuitive d
 
 <p align="left" >
   <img src="https://ghstats.dev/api/card?username=tamaannaafi&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sc5ufdj6dkj4h3rjppl7ymgode&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark" height="420" width="48%"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sc5ufdj6dkj4h3rjppl7ymgode&cover_image=true&theme=compact&show_offline=false&background_color=1a1b27&interchange=false&profanity=false&hide_remaster=false" width="48%"/>
 </p>
